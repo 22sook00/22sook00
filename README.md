@@ -18,27 +18,28 @@ Here are some ideas to get you started:
   
    <h3>
      <em>
-     I’m currently working on "Squares",  
+     I’m currently working on "Squares"  
      </em>
+   </h3>
      
-     <b>Squares 2022~</b>
-     <p>QUV - the web builder platform</p>
-     <a href="https://quv.kr/">🏠 QUV <a/>
- 
-     <p>Smart log - the anti-corruption platform</p>
-     <a href="https://www.smlog.co.kr/">📊 Smart log </a>
-     <a href="https://www.smlog.co.kr/2020/smartads.html">📺 Smart ads <a/>
+  <h4> Squares 2022~ </h4>
+  <p> QUV - the web builder platform</p>
+  <a href="https://quv.kr/">🏠 QUV <a/> 
+  <br/>
+  <br/>
+  <p>Smart log - the anti-corruption platform</p>
+  <a href="https://www.smlog.co.kr/"> 📊 Smart log </a> |
+  <a href="https://www.smlog.co.kr/2020/smartads.html"> 📺 Smart ads <a/> 
      
-     <hr/>
+ <hr/>
      
-     <b>ENKOR WITHUS 2021-2022</b>
-     <p>the Foreign Residential Platform.</p>
-      <a href="https://enkor.kr/">👨‍👩‍👧‍👦 Enkor</a> | 
+ <h4> ENKOR WITHUS 2021-2022 </h4>
+     <p> the Foreign Residential Platform.</p>
+      <a href="https://enkor.kr/"> 👨‍👩‍👧‍👦 Enkor </a> | 
       <a href="https://stay.enkor.kr/"> 🏡Enkor stay </a> | 
-      <a href="https://host.enkor.kr/"> 🏘 Enkor stay - host </a><br/>
+      <a href="https://host.enkor.kr/"> 🏘 Enkor stay - host </a>
       
 
-   </h3>
 <!-- <br/> -->
 <!-- <h2>📚 My tech stack</h2> -->
 <!-- ![html] https://img.shields.io/badge/-HTML5-F05032?style=flat&logo=appveyor&logo=html5&locoColor=ffffff -->
