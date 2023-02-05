@@ -1,27 +1,21 @@
 
   ## Thank you for visiting my github💞
 
-<h4>👩🏻‍💻 Working on</h4>
+<h3>👩🏻‍💻 Working on</h3>
   <h5> Squares 2022~ </h5>
-  <p> QUV - the web builder platform</p>
-  <a href="https://quv.kr/">🏠 QUV <a/> 
-  and we are ready for launching Qshop on quv-editor soon.
-  <br/>
-  <br/>
-  <p>Smart log - the anti-corruption platform</p>
+  <a href="https://quv.kr/">QUV <a/> |
   <a href="https://www.smlog.co.kr/"> 📊 Smart log </a> |
-  <a href="https://www.smlog.co.kr/2020/smartads.html"> 📺 Smart ads <a/> 
+  <a href="https://www.smlog.co.kr/2020/smartads.html"> 📺 Smart ads <a/> | <b>Qshop</b> ready for launching soon. 
      
      
  <h5> ENKOR WITHUS 2021-2022 </h5>
-     <p> the Foreign Residential Platform.</p>
-      <a href="https://enkor.kr/"> 👨‍👩‍👧‍👦 Enkor </a> | 
-      <a href="https://stay.enkor.kr/"> 🏡Enkor stay </a> | 
-      <a href="https://host.enkor.kr/"> 🏘 Enkor stay - host </a>
+  <a href="https://enkor.kr/"> 👨‍👩‍👧‍👦 Enkor </a> | 
+  <a href="https://stay.enkor.kr/"> 🏡Enkor stay </a> | 
+  <a href="https://host.enkor.kr/"> 🏘 Enkor stay - host </a>
        
 <br/>      
 <hr/>
-<h4>📚 Tech stack</h4>
+<h3>📚 Tech stack</h3>
 
 <!--framework/lang-->
 <div align="left">
