@@ -43,3 +43,8 @@ Here are some ideas to get you started:
 <!-- <br/> -->
 <!-- <h2>📚 My tech stack</h2> -->
 <!-- ![html] https://img.shields.io/badge/-HTML5-F05032?style=flat&logo=appveyor&logo=html5&locoColor=ffffff -->
+    
+    
+    
+![Sookyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=22sook00&show_icons=true&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=22sook00&layout=레이아웃 스타일&theme=prussian)
