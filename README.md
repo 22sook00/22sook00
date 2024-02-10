@@ -11,8 +11,9 @@
 ### My Absolute Favorites:
 
 - 💻 &nbsp; 신기술 사용에 적극적입니다.
-- 🎨 &nbsp; 예쁜것을 좋아하고 UI/UX 에도 관심이 많습니다.
+- 🎨 &nbsp; 예쁘고(UI) 편리한것(UX)을 좋아합니다. 
 - 🍕 &nbsp; 네트워킹 / 테크스터디 참여를 좋아합니다.
+- 🏃🏻‍♀️ &nbsp; 오랜 개발생활 유지를 위해 체력을 기르고 있습니다.
 
 ### Languages and Tools:
 
@@ -34,12 +35,7 @@
 
 </div>
 
+### Github Stats
 
-<hr/>
-<a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=22sook00&show_icons=true&theme=prussian&hide_border=true"  width=50%
-  height=auto />
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=22sook00&layout=compact&theme=prussian&hide_border=true)](https://github.com/22sook00)  
-   
+![](./profile-3d-contrib/profile-night-view.svg)
     
