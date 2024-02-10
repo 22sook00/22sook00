@@ -1,5 +1,5 @@
 
-## 안녕하세요, [이숙영](https://github.com/22sook00/) 입니다.
+## 안녕하세요, 프론트엔드 [이숙영](https://github.com/22sook00/) 입니다.
 
 ### Work & Experience
   
