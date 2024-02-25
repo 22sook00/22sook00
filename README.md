@@ -8,14 +8,14 @@
 - 👾 &nbsp; 코드스테이츠 39기-45기 프로젝트 멘토참여 (2022-2023)
 - 📫 &nbsp; 22sook00@gmail.com
 
-### My Absolute Favorites:
+### Favorites
 
 - 💻 &nbsp; 신기술 사용에 적극적입니다.
 - 🎨 &nbsp; 예쁘고(UI) 편리한것(UX)을 좋아합니다. 
 - 🍕 &nbsp; 네트워킹 / 테크스터디 참여를 좋아합니다.
 - 🏃🏻‍♀️ &nbsp; 오랜 개발생활 유지를 위해 체력을 기르고 있습니다.
 
-### Languages and Tools:
+### Languages and Tools
 
 <div >
   	<code><img width="37" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
